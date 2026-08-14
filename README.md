@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-<!--
-**FauzySousa/FauzySousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias
 
-Here are some ideas to get you started:
+### Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Spring Security](https://skillicons.dev/icons?i=springsecurity)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### DevOps & Ferramentas
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+### Frontend
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
