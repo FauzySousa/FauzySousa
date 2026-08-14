@@ -1,4 +1,6 @@
-## Hi there 👋
+# Olá 👋🏽, Sou Fauzy Sousa
+
+🚀 **Junior Desenvolvedor Backend**
 
 ## 🛠️ Tech Stack
 
@@ -17,10 +19,3 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FauzySousa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzySousa&layout=compact&theme=tokyonight" />
-</p>
