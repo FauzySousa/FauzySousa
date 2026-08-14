@@ -3,16 +3,11 @@
 ## 🛠️ Tecnologias
 
 ### Backend
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Spring Security](https://skillicons.dev/icons?i=springsecurity)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![Backend](https://skillicons.dev/icons?i=java,spring,springsecurity,mysql)
 
 ### DevOps & Ferramentas
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+![DevOps](https://skillicons.dev/icons?i=docker,git,github)
 
 ### Frontend
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Frontend](https://skillicons.dev/icons?i=javascript)
 
