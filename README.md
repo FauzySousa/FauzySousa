@@ -19,5 +19,3 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FauzySousa&repo=ControlCash&theme=dark)](https://github.com/FauzySousa/ControlCash)
